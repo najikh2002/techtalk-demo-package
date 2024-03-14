@@ -1,10 +1,10 @@
 from epyseri import TridentTraceClient
 from rich import print
 
-ttc = TridentTraceClient(
-    base_url="https://stg-trident-trace.efishery.com",
-    auth_token="edo"
-)
+# ttc = TridentTraceClient(
+#     base_url="https://stg-trident-trace.efishery.com",
+#     auth_token="edo"
+# )
 
 # get_health_result = ttc.get_health()
 # print(get_health_result)
